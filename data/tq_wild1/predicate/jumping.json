@@ -5,7 +5,8 @@
     "type_specific": {
       "type": "minecraft:player",
       "input": {
-        "jump": true
+        "jump": true,
+        "sneak": false
       }
     }
   }

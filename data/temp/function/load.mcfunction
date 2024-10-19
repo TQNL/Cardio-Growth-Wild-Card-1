@@ -1,1 +1,0 @@
-tellraw @a {"text": "Loaded wild1","color": "#00FF00"}

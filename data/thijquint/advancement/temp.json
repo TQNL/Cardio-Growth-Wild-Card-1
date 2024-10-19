@@ -3,8 +3,8 @@
     "icon": {
       "id": "minecraft:coal"
     },
-    "title": "temp",
-    "description": "temp",
+    "title": "wild1",
+    "description": "wild1",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": false

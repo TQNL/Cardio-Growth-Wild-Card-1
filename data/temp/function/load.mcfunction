@@ -1,1 +1,1 @@
-tellraw @a {"text": "Loaded temp","color": "#00FF00"}
+tellraw @a {"text": "Loaded wild1","color": "#00FF00"}

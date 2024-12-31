@@ -1,5 +1,7 @@
-# Wild Life: Wild Card 1 (basically just practice for me)
-<description>
+# Wild Life: Wild Card 1
+Sneaking shrinks you, jumping grows you.
+
+basically just practice for me.
 
 ### notice
 - If you want to support small creators like me, you can turn off ad blocker on Modrinth.
